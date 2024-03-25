@@ -9,4 +9,8 @@
 
 </details>
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVrumm&show_icons=true&theme=radical)
+![Victor Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVrumm&show_icons=true&theme=tokyonight) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVrumm&layout=donut)](https://github.com/VictorVrumm/github-readme-stats)
+
+                    
