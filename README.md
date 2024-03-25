@@ -13,4 +13,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVrumm&layout=donut)](https://github.com/VictorVrumm/github-readme-stats)
 
-                    
