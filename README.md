@@ -8,8 +8,3 @@
   - Atualmente estou apenas adquirindo habilidades para poder adentrar e ter minha primeira experiência no mercado de trabalho. Estou cursando em um bacharel em CdC (Ciências da Computação) na FMU e em casa aprendendo novas tecnologias, como Gemini e Power BI. 
 
 </details>
-
-![Victor Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorVrumm&show_icons=true&theme=tokyonight) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVrumm&layout=donut)](https://github.com/VictorVrumm/github-readme-stats)
-
